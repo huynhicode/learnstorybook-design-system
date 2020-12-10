@@ -1,4 +1,4 @@
-import { Meta, Story, Canvas, ArgsTable, Preview } from '@storybook/addon-docs/blocks';
+<!-- import { Meta, Story, Canvas, ArgsTable, Preview } from '@storybook/addon-docs/blocks';
 
 import { Avatar } from './Avatar';
 
@@ -100,4 +100,4 @@ export const Template = (args) => <Avatar {...args} />
   }}>
     {Template.bind({})}
   </Story>
-</Canvas>
+</Canvas> -->
